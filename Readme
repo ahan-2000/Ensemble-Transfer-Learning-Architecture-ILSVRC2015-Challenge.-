@@ -1,0 +1,1 @@
+We aim to build an Ensemble Based Transfer Learning Model, as this is a medical imaging problem the count of false positives could be fatal and we have to minimize that count to as low as possible.
